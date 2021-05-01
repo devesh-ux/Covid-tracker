@@ -1,3 +1,8 @@
+
+Link of the tracker : https://covid-19-tracker-11cc4.web.app
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
